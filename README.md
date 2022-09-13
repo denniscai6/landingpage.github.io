@@ -1,2 +1,1 @@
-# landingpage.github.io
-landingpage
+# nft-web
